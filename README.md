@@ -1,5 +1,5 @@
 # Finding which demographics are most likely to commit suicide
-This project aims to predict the likelihood of a person committing suicide using classification models in Python.
+This project aims to predict if a person will commit suicide using classification models in Python.
 
 Tools & Libraries
 Python
